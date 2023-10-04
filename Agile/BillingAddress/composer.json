@@ -1,6 +1,6 @@
 {
     "name": "agile/billing-address",
-    "description": "Display attachments on sales email",
+    "description": "Move payment methods after Billing Address in checkout page",
     "require": {
         "php": "~7.1.0|~7.2.0|~7.3.0|~7.4.0|~8.1.0|~8.2.0"
     },
